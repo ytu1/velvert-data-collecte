@@ -1,0 +1,6 @@
+station_id,nom_station,velos_disponibles,capacite_totale
+1,Republique,2,20
+2,Bastille,15,18
+3,Nation,1,15
+4,Chatelet,8,25
+5,Bercy,6,10
